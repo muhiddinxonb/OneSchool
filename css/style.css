@@ -1,9 +1,10 @@
-/* Base */
+Base
 body {
     line-height: 1.7;
     color: gray;
     font-weight: 300;
     font-size: 1.1rem;
+    overflow-x: hidden;
   }
   
   ::-moz-selection {
@@ -1645,4 +1646,4 @@ body {
   
   .footer-subscribe input {
     height: 43px;
-  }
+  }000000000000000000000000000000000000000000000000000000000000000000000000000000000000
